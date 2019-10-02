@@ -11,3 +11,15 @@
 ![alt text](https://sun9-42.userapi.com/c856124/v856124090/1134de/vhEj5XVZ6n0.jpg)
 ---------
 ![alt text](https://sun9-49.userapi.com/c856124/v856124090/1134e5/Bu3Fvl3LWRk.jpg)
+---------
+Эксперименты
+---------
+![alt text]()
+---------
+![alt text]()
+---------
+Задание 2
+---------
+![alt text](https://sun9-20.userapi.com/c856124/v856124062/112bdc/GKiuy3ffyqc.jpg)
+---------
+![alt text](https://sun9-45.userapi.com/c856124/v856124062/112be3/oidoMYC5gjg.jpg)
