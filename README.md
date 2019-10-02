@@ -4,5 +4,5 @@
 Задание 1
 Проверить код на работоспособность и поэкспериментировать 
 
-<img src="http://prntscr.com/pdr9ln" alt="альтернативный текст">
+![alt text](http://prntscr.com/pdr9ln)
 
