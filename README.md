@@ -4,4 +4,4 @@
 Задание 1
 Проверить код на работоспособность и поэкспериментировать 
 
-![alt text]
+![alt text](https://cdn-images-1.medium.com/freeze/max/1000/0*wqUB_0S3sNyjJWFj.jpg?q=20)
