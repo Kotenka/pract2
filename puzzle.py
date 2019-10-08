@@ -21,7 +21,7 @@ rules = lall(
     # Steve's car is blue
     (membero, ('Steve', var(), 'blue', var()), people),
 
-    # Person who owns the cat lives in Canada 
+    # Person who owns the cat lives in Canada
     (membero, (var(), 'cat', var(), 'Canada'), people),
 
     # Matthew lives in USA
@@ -36,10 +36,10 @@ rules = lall(
     # Alfred lives in Australia
     (membero, ('Alfred', var(), var(), 'Australia'), people),
 
-    # Person who owns the dog lives in France 
+    # Person who owns the dog lives in France
     (membero, (var(), 'dog', var(), 'France'), people),
 
-    # Who is the owner of the rabbit? 
+    # Who is the owner of the rabbit?
     (membero, (var(), 'rabbit', var(), var()), people)
 )
 
@@ -58,4 +58,3 @@ print('=' * 57)
 for item in solutions[0]:
     print('')
     print('\t\t'.join([str(x) for x in item]))
-
