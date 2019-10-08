@@ -15,9 +15,11 @@
 Эксперименты
 ---------
 Добавила еще одну бабушку 
+---------
 ![alt text](https://sun9-30.userapi.com/c850636/v850636682/1dc74a/ecE1T0IoXM4.jpg)
 ---------
 и сделала вывод бабушек
+---------
 ![alt text](https://sun9-21.userapi.com/c850636/v850636682/1dc751/m7bmFkQxgpM.jpg)
 ---------
 ![alt text](https://sun9-38.userapi.com/c850636/v850636682/1dc758/Yp3CwGWYf70.jpg)
