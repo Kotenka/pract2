@@ -20,6 +20,8 @@
 ---------
 Задание 2
 ---------
+![alt text](https://codealogic.files.wordpress.com/2018/07/pz1.png)
+---------
 ![alt text](https://sun9-20.userapi.com/c856124/v856124062/112bdc/GKiuy3ffyqc.jpg)
 ---------
 ![alt text](https://sun9-45.userapi.com/c856124/v856124062/112be3/oidoMYC5gjg.jpg)
